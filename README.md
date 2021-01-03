@@ -1,0 +1,2 @@
+# IIM-Indore-Case-study-Logistic-Regression
+Logistic Regression Case study on Adult dataset. Instructions Assume that you are working as a sales and marketing manager for a high-end professional laptop series, responsible for its sales and marketing initiatives for a given region. You are tasked to reach out to potential buyer segment of customers, under the assumption that high income customers are more likely to purchase a high end laptop as compared to low income customer segment.
